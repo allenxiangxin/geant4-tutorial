@@ -4,7 +4,7 @@ Create Makefile using cmake:
 ```bash
 mkdir -p build
 cd build
-cmake ../
+cmake ../src/
 ```
 
 Then do make:
